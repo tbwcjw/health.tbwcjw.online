@@ -8,8 +8,6 @@ sites:
   - name: HashCraft Faucet
     url: http://serverinspiron-ssh.dynv6.net:6436/
     method: GET
-    headers:
-      User-Agent: Upptime Monitor
     expectedStatusCodes: [200, 301, 302]
     maxResponseTime: 2000
 
