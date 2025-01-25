@@ -6,7 +6,7 @@ sites:
   - name: faucet.tbwcjw.online
     url: https://faucet.tbwcjw.online
   - name: HashCraft Faucet
-    url: http://serverinspiron-ssh.dynv6.net:6436/
+    url: http://hcf.tbwcjw.online
     maxResponseTime: 5000
 
 status-website:
