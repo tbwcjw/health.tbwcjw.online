@@ -5,6 +5,10 @@ repo: health.tbwcjw.online # The name of this repository
 sites:
   - name: faucet.tbwcjw.online
     url: https://faucet.tbwcjw.online
+  - name: HashCraft Faucet
+    check: "tcp-ping"
+    url: http://serverinspiron-ssh.dynv6.net
+    port: 6436
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
