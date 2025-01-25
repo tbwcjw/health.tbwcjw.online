@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: health.tbwcjw.online
   introTitle: "Monitor the uptime of tbwcjw.online projects"
-  introMessage: Using [upptime](https://github.com/upptime/upptime)
+  introMessage: This page provides *real-time* uptime data for projects from tbwcjw.online. Issues, downtime and incidents will first be reported here.
   navbar:
     - title: Status
       href: /
