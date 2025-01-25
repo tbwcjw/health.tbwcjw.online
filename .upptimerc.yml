@@ -6,8 +6,12 @@ sites:
   - name: faucet.tbwcjw.online
     url: https://faucet.tbwcjw.online
   - name: HashCraft Faucet
-    url: serverinspiron-ssh.dynv6.net
-    port: 6436
+    url: http://serverinspiron-ssh.dynv6.net:6436/
+    method: GET
+    headers:
+      User-Agent: Upptime Monitor
+    expectedStatusCodes: [200, 301, 302]
+    maxResponseTime: 2000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
