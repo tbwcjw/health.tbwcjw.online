@@ -7,7 +7,8 @@ sites:
     url: https://faucet.tbwcjw.online
   - name: HashCraft Faucet
     url: http://hcf.tbwcjw.online
-    maxResponseTime: 6000
+    expectedStatusCodes:
+      - 521
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
