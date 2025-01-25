@@ -7,9 +7,7 @@ sites:
     url: https://faucet.tbwcjw.online
   - name: HashCraft Faucet
     url: http://serverinspiron-ssh.dynv6.net:6436/
-    method: GET
-    expectedStatusCodes: [200, 301, 302]
-    maxResponseTime: 2000
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
