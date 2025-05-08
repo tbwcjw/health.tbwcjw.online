@@ -4,17 +4,19 @@
     "url": "https://faucet.tbwcjw.online",
     "icon": "https://icons.duckduckgo.com/ip3/faucet.tbwcjw.online.ico",
     "slug": "faucet-tbwcjw-online",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 913,
-    "timeDay": 916,
-    "timeWeek": 1018,
-    "timeMonth": 984,
-    "timeYear": 913,
-    "dailyMinutesDown": {}
+    "time": 907,
+    "timeDay": 512,
+    "timeWeek": 905,
+    "timeMonth": 957,
+    "timeYear": 907,
+    "dailyMinutesDown": {
+      "2025-05-08": 0
+    }
   }
 ]
