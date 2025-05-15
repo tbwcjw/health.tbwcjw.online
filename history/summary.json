@@ -6,15 +6,15 @@
     "slug": "faucet-tbwcjw-online",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.76%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
-    "time": 895,
-    "timeDay": 402,
-    "timeWeek": 700,
-    "timeMonth": 890,
-    "timeYear": 895,
+    "time": 894,
+    "timeDay": 699,
+    "timeWeek": 680,
+    "timeMonth": 877,
+    "timeYear": 894,
     "dailyMinutesDown": {
       "2025-05-13": 32
     }
